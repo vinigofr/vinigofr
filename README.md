@@ -5,7 +5,7 @@
 
 - I’m looking to collaborate on **front-end and back-end projets.**
 
-- 👨‍💻 All of my projects are available at [vinigofr.github.io](vinigofr.github.io)
+- 👨‍💻 All of my projects are available at [https://vinigofr.github.io/](vinigofr.github.io)
 
 - 📫 Vinicius, how can I find you? **vinicius.bingui2@gmail.com**
 
