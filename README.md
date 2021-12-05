@@ -1,9 +1,9 @@
 <h1 align="center">What's up👋, good? I'm Vinicius Gouveia, a Junior Web Developer.</h1>
 <h3 align="center">I'm full stack developer and student at Trybe!</h3>
 
-- 🌱 I’m currently learning **back-end technologies and how to build RESTful API's.**
+- 🌱 I’m currently learning **Java, TypeScript, Object Orientation Programming and back-end technologies**
 
-- 👯 I’m looking to collaborate **on front-end or back-end projects**
+- 👯 I’m looking to collaborate **on front-end, back-end or open source projects**
 
 - 🤝 I’m looking for **learn mobile development technologies like React Native. In the nearby future, I wish to join in this development area.**
 
