@@ -1,8 +1,8 @@
 <h1 align="center">Hi👋  I'm Vinicius Gouveia (Vini)</h1>
 
-- Student of Trybe (Web Development School)
+- Student at Trybe (Web Development School)
 
-- Learning **TypeScript and Object Orientation Programming with Java **
+- Learning ** TypeScript and Object Orientation Programming with Java **
 
 - I have interest in mobile development (React Native, Kotlin, Flutter)
 
