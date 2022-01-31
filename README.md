@@ -8,7 +8,7 @@
 
 - I'm looking to collaborate **on front-end, back-end or open source projects**
 
-- All of my projects can be found on [![Web Portfolio](https://img.shields.io/badge/vinigofr.github.io-7112B1?style=for-the-badge&logo=github&logoColor=white)](https://vinigofr.github.io/)
+- Some of my projects can be found on [![Web Portfolio](https://img.shields.io/badge/vinigofr.github.io-7112B1?style=for-the-badge&logo=github&logoColor=white)](https://vinigofr.github.io/)
 
 - We can talk about **JavaScript ES6, React, ExpressJS and NodeJS**
 
