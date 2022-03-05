@@ -2,7 +2,7 @@
 
 - Student at Trybe (Web Development School)
 
-- Learning ** TypeScript on YouTube, Python on Trybe and Object Orientation Programming with Java on Udemy**
+- Learning **TypeScript, Python, Golang and Object Orientation Programming with Java**
 
 - I have interest in mobile development (React Native, Kotlin, Flutter)
 
