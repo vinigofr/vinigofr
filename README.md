@@ -13,7 +13,7 @@
 - We can talk about **JavaScript ES6, React, ExpressJS and NodeJS**
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinigofr/) [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=write)](https://www.youtube.com/c/viniciusgouveia) [![Email](https://img.shields.io/badge/outlook-blue?style=for-the-badge&logo=microsoft%20outlook&logoColor=)](mailto:freitas.viniciuspk@outlook.com.br) [![Instagram](https://img.shields.io/badge/vinigofr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinigofr) [![HackerRank](https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/vinigofr) ![Duolingo](https://img.shields.io/badge/vinigofr-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinigofr/) [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=write)](https://www.youtube.com/c/viniciusgouveia) [![Email](https://img.shields.io/badge/outlook-blue?style=for-the-badge&logo=microsoft%20outlook&logoColor=)](mailto:freitas.viniciuspk@outlook.com.br) [![HackerRank](https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/vinigofr) ![Duolingo](https://img.shields.io/badge/vinigofr-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
 
 ### Languages, frameworks and libs:
 
