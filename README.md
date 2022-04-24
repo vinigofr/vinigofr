@@ -1,19 +1,19 @@
 <h1 align="center">Hi👋  I'm Vinicius Gouveia (Vini)</h1>
 
-- Student at Trybe (Web Development School)
+- Ex-student at Trybe (Web Development School)
 
-- Learning **TypeScript, Python, Golang and Object Orientation Programming with Java**
+- Learning **TypeScript and Golang**
 
-- I have interest in mobile development (React Native, Kotlin, Flutter)
+- I have interest in mobile development
 
-- I'm looking to collaborate **on front-end, back-end or open source projects**
+- I'm looking to collaborate **in the full-stack and/or open source projects**
 
 - Some of my projects can be found on [![Web Portfolio](https://img.shields.io/badge/vinigofr.github.io-7112B1?style=for-the-badge&logo=github&logoColor=white)](https://vinigofr.github.io/)
 
-- We can talk about **JavaScript ES6, React, ExpressJS and NodeJS**
+- We can talk about **JavaScript/NodeJS, React, ExpressJS, Golang and Automation**
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinigofr/) [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=write)](https://www.youtube.com/c/viniciusgouveia) [![Email](https://img.shields.io/badge/outlook-blue?style=for-the-badge&logo=microsoft%20outlook&logoColor=)](mailto:freitas.viniciuspk@outlook.com.br) [![HackerRank](https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/vinigofr) ![Duolingo](https://img.shields.io/badge/vinigofr-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinigofr/) [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=write)](https://www.youtube.com/c/viniciusgouveia) [![HackerRank](https://img.shields.io/badge/vinigofr-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
 
 ### Languages, frameworks and libs:
 
