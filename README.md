@@ -13,7 +13,7 @@
 - We can talk about **JavaScript/NodeJS, React, ExpressJS, Golang and Automation**
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinigofr/) [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=write)](https://www.youtube.com/c/viniciusgouveia) [![HackerRank](https://img.shields.io/badge/vinigofr-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinigofr/) [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=write)](https://www.youtube.com/c/viniciusgouveia)
 
 ### Languages, frameworks and libs:
 
