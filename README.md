@@ -6,9 +6,9 @@
 
 - Current learning about **Full Cycle Development** 🔁
 
-- We can talk about **JavaScript/NodeJS, React, ExpressJS, Golang, Data and Automation** 🔦
+- We can talk about **JavaScript/NodeJS, React, ExpressJS, Golang, Data and Automation** and a lot of other things 🔦
 
-- We can have a conversation in English, it's really cool for me to practice a language I want to learn ;) 💻
+- I know English and we can practice if you want. It will be really nice 💻
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinigofr/) [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=write)](https://www.youtube.com/c/viniciusgouveia)  [![Web Portfolio](https://img.shields.io/badge/vinigofr.github.io-7112B1?style=for-the-badge&logo=github&logoColor=white)](https://vinigofr.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinigofr/) [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=write)](https://www.youtube.com/c/viniciusgouveia)
