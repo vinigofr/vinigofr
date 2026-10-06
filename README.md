@@ -1,14 +1,16 @@
-<h1 align="center">Hi👋  I'm Vinicius Gouveia (Vini)</h1>
+<h1 align="center">Hi👋  I'm Vini</h1>
 
-- I work at @MercadoLibre, the biggest e-commerce in Latin America💛💙
+- Currently working at @MercadoLibre 📦
 
-- Ex-student at Trybe (Software Development, Soft Skills and focus in Career) 💚
+- I'm graduating in Systems Analysis and Development (Universidade Presbiteriana Mackenzie ❤️) 
 
-- Current learning about **Full Cycle Development** 🔁
+- We can talk about a lot of things. But if it's about tech, we can talk about **AI, Claude, Codex, JS/NodeJS, React, ExpressJS, Go, Data and Automation** 🔦
 
-- We can talk about **JavaScript/NodeJS, React, ExpressJS, Golang, Data and Automation** and a lot of other things 🔦
-
-- I know English and we can practice if you want. It will be really nice 💻
+- I like to study languages. I know Spanish, English and Portuguese 💻
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinigofr/) [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=write)](https://www.youtube.com/c/viniciusgouveia)
+
+### My website:
+- I also have a website [(devini.me)](https://devini.me). I have plans for this website for future, but for now, there's no relevant info
+- Why devini.me? De (from) Vini (I) Me (me) 😆
